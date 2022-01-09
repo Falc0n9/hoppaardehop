@@ -1,6 +1,6 @@
 import React, { Component } from 'react'
 import Counter from "./counter"
-import { Container, Row, Col} from 'react-bootstrap';
+import { Card, Container, Row, Col} from 'react-bootstrap';
 
 class Counters extends Component {
     render() {

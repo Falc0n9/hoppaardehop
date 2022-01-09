@@ -1,7 +1,7 @@
 import React from 'react'
 import '/Users/antoinecoppens/Documents/6_Vrije Tijd/digi-jump/node_modules/bootstrap/dist/css/bootstrap.css'
 
-const NavBar = ({ totalCounters }) => {
+const NavBar = () => {
     return (
         <nav className="navbar navbar-light bg-light">
             <div className="container-fluid">
